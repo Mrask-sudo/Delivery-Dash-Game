@@ -1,7 +1,7 @@
 # Delivery Dash Game
 
 **Delivery Dash** is a simple 2D Unity game created as a course project.
-You play as a delivery driver racing around town to **pick up packages** and **deliver them to customers** — but watch out! Collisions slow you down, and you’ll need to make use of **boosters** to keep your deliveries speedy and efficient.
+You play as a delivery driver racing around town to **pick up packages** and **deliver them to customers**,Collisions slow you down, and you’ll need to make use of **boosters** to keep your deliveries speedy and efficient.
 
 ---
 
